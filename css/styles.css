@@ -1,0 +1,124 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 0.9rem;
+}
+h1{
+  font-family: "Sacramento", cursive;
+  font-size: 4rem;
+}
+h2{
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+}
+h3{
+  color: #11999E;
+}
+.color{
+  color: #66BFBF;
+}
+.top-container{
+  background-color: #EAF6F6;
+}
+.header{
+  margin: 2px;
+}
+.a-gramer{
+  margin-bottom: 1%;
+}
+.cloud{
+  position: relative;
+  margin: 1% 0;
+}
+.img.cloud.one{
+  left: 20%;
+}
+.img.cloud.two{
+  right: 20%;
+}
+.img.mountain{
+  margin-top: -3%;
+  width: 28.125rem;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.middle-container{
+  padding: 3%;
+}
+.profile img{
+  width: 10%;
+  height: 10%;
+  margin: 0;
+}
+.profile p{
+  width: 20rem;
+  margin: auto;
+}
+.p-color{
+  color: #40514E;
+}
+hr{
+  color: #DCE6E6;
+  width: 3.5%;
+  border-width: 0.3rem;
+  border-style: dotted none none;
+  margin-top: 5.5%;
+  margin-bottom: 5.5%;
+}
+.skills > h2{
+  margin: 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 5rem auto;
+  text-align: left;
+  line-height: 2;
+}
+div.first-skill{
+  margin-bottom: 6rem;
+}
+.skill-row img{
+  height: 25%;
+  width: 25%;
+}
+.coders-img{
+  float: left;
+  margin-right: 1.875rem;
+}
+.chillies-img{
+  float: right;
+  margin-left: 1.875rem;
+}
+
+.contact-me p{
+  width: 50%;
+  margin: 2.5rem auto;
+}
+.btn{
+  background: linear-gradient(180deg, #66BFBF, #37afb5 55%);
+  padding: 0.6rem 1rem;
+  border-radius: 0.5rem;
+  display: inline-block;
+  margin: 0 2rem 2rem;
+  text-decoration: none;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 2rem;;
+}
+.bottom-container a{
+  text-decoration: none;
+  color: #11999E;
+  margin: 0 1.5rem;
+}
+.bottom-container p{
+  margin: 2rem 2rem 0;
+  color: #EAF6F6;
+}
